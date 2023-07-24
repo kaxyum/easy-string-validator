@@ -1,0 +1,19 @@
+{
+  "name": "easy-string-validator",
+  "version": "1.0.1",
+  "description": "check if it's a valid email or phone number",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaxyum/easy-string-validator.git"
+  },
+  "author": "kaxyum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaxyum/easy-string-validator/issues"
+  },
+  "homepage": "https://github.com/kaxyum/easy-string-validator#readme"
+}
